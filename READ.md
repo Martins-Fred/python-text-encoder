@@ -1,0 +1,1 @@
+I created a Python program that replaces each word with its number using a list comprehension and a dictionary, returning a list of IDs.
